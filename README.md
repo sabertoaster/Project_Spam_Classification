@@ -1,1 +1,2 @@
 # Project_Spam_Classification
+This is a project for Email Classification as Spam or Ham using Naive Bayes Classifier. The dataset used is the Enron Email Dataset. The dataset is available at https://www.cs.cmu.edu/~./enron/
